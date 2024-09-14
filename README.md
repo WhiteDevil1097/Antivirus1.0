@@ -1,5 +1,5 @@
 # Antivirus1.0
-<img src="Antivirus.jpg"><br>
+<img src="Antivirus1.0.jpg"><br>
 >A CLI Antivirus tool for malwere ditected
 
 ## Usage Instructions :
